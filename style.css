@@ -32,6 +32,7 @@ body {
   cursor: pointer;
   flex: 0.5;
   position: relative;
+  transition: all 700ms ease-in;
 }
 
 .panel h3 {
